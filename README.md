@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://afraaz.xyz/assets/img/profile-img.jpg" alt="Alozza Logo" width="160"/>
+</p>
+
 <h1 align="center">Hey there 👋, I'm Afraaz</h1>
 
 <p align="center">
