@@ -13,7 +13,7 @@
 
 Building useful things with a thoughtful approach to design and code.
 
-[Email](mailto:hello@ahmedafraaz.com) &nbsp; ↗ &nbsp; [LinkedIn](https://linkedin.com/in/ahmedafraaz) &nbsp; ↗ &nbsp; [GitHub](https://github.com/ahmedafraaz)
+[Email](mailto:hello@ahmedafraaz.com) &nbsp; ↗ &nbsp; [LinkedIn](https://linkedin.com/in/ahmedafraaz) &nbsp; ↗ &nbsp; [GitHub](https://github.com/afrazafey)
 
 </div>
 
@@ -59,9 +59,9 @@ I enjoy the whole process: understanding the problem, building the right solutio
 ## A little progress, every day.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedafraaz/ahmedafraaz/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedafraaz/ahmedafraaz/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/ahmedafraaz/ahmedafraaz/output/github-snake.svg" width="960" alt="Animated snake tracing my GitHub contributions in sage green">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afrazafey/afrazafey/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afrazafey/afrazafey/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/afrazafey/afrazafey/output/github-snake.svg" width="960" alt="Animated snake tracing my GitHub contributions in sage green">
 </picture>
 
 <br>

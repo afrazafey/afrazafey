@@ -50,7 +50,7 @@ These are the details currently used in your profile:
 | Detail | Current value |
 | :--- | :--- |
 | **Name** | Ahmed Afraaz |
-| **GitHub account** | `ahmedafraaz` |
+| **GitHub account** | `afrazafey` |
 | **Email** | `hello@ahmedafraaz.com` |
 | **LinkedIn** | `linkedin.com/in/ahmedafraaz` |
 | **Location** | Maldives |
@@ -61,7 +61,7 @@ Check these before uploading. If your GitHub username differs, update the GitHub
 
 ## 03 &nbsp; Put it on your profile.
 
-1. Open your public **`username/username`** repository. Its name must match your GitHub account exactly.
+1. Open your public **`afrazafey/afrazafey`** repository. Its name must match your GitHub account exactly.
 2. Upload `README.md`, the entire `assets` folder, and `.github/workflows/snake.yml` to the default branch.
 3. Open your GitHub profile to see the refreshed layout.
 
