@@ -51,8 +51,9 @@ These are the details currently used in your profile:
 | :--- | :--- |
 | **Name** | Ahmed Afraaz |
 | **GitHub account** | `afrazafey` |
-| **Email** | `hello@ahmedafraaz.com` |
-| **LinkedIn** | `linkedin.com/in/ahmedafraaz` |
+| **Portfolio** | [afraaz.xyz](https://afraaz.xyz) |
+| **Email** | [ahmed.afraaz@alozza.com](mailto:ahmed.afraaz@alozza.com) |
+| **LinkedIn** | [Ahmed Afraaz](https://mv.linkedin.com/in/ahmed-afraaz-33a647318) |
 | **Location** | Maldives |
 
 Check these before uploading. If your GitHub username differs, update the GitHub links and all three snake image URLs in `README.md`. The workflow reads the repository owner's username automatically.

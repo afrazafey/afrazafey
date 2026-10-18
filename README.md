@@ -13,7 +13,7 @@
 
 Building useful things with a thoughtful approach to design and code.
 
-[Email](mailto:hello@ahmedafraaz.com) &nbsp; ↗ &nbsp; [LinkedIn](https://linkedin.com/in/ahmedafraaz) &nbsp; ↗ &nbsp; [GitHub](https://github.com/afrazafey)
+[Portfolio](https://afraaz.xyz) &nbsp; ↗ &nbsp; [Email](mailto:ahmed.afraaz@alozza.com) &nbsp; ↗ &nbsp; [LinkedIn](https://mv.linkedin.com/in/ahmed-afraaz-33a647318) &nbsp; ↗ &nbsp; [GitHub](https://github.com/afrazafey)
 
 </div>
 
@@ -73,7 +73,7 @@ I enjoy the whole process: understanding the problem, building the right solutio
 <br>
 <br>
 
-**[Start a conversation](mailto:hello@ahmedafraaz.com)** &nbsp; · &nbsp; **[Connect on LinkedIn](https://linkedin.com/in/ahmedafraaz)**
+**[Visit my portfolio](https://afraaz.xyz)** &nbsp; · &nbsp; **[Start a conversation](mailto:ahmed.afraaz@alozza.com)** &nbsp; · &nbsp; **[Connect on LinkedIn](https://mv.linkedin.com/in/ahmed-afraaz-33a647318)**
 
 <br>
 
