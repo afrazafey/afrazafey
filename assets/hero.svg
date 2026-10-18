@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="960" height="328" viewBox="0 0 960 328" role="img" aria-labelledby="title desc">
+  <title id="title">Afraaz — Creative Developer</title>
+  <desc id="desc">Turning ideas into working software. Laravel, SaaS, and DevOps. Based in the Maldives.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#849d8e" stroke-opacity=".09"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="328" rx="20" fill="#f4f2ed"/>
+  <rect width="960" height="328" rx="20" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="44" y="54" font-size="25" font-weight="700" letter-spacing="-1" fill="#1e2420">afraaz<tspan fill="#849d8e">.</tspan></text>
+    <circle cx="708" cy="45" r="4" fill="#849d8e"/>
+    <text x="724" y="50" font-size="11" letter-spacing="2" fill="#6f7670">CREATIVE DEVELOPER</text>
+    <line x1="44" y1="79" x2="916" y2="79" stroke="#d8d9d1"/>
+    <text x="44" y="150" font-size="48" font-weight="700" letter-spacing="-2" fill="#1e2420">Turning ideas into</text>
+    <text x="44" y="207" font-size="48" font-weight="700" letter-spacing="-2" fill="#708b7b">working software.</text>
+    <text x="46" y="248" font-size="15" fill="#6f7670">Thoughtful interfaces. Reliable systems. Useful outcomes.</text>
+    <line x1="44" y1="278" x2="916" y2="278" stroke="#d8d9d1"/>
+    <text x="46" y="306" font-size="10" letter-spacing="2" fill="#6f7670">LARAVEL / SAAS / DEVOPS</text>
+    <text x="916" y="306" text-anchor="end" font-size="10" letter-spacing="2" fill="#6f7670">BASED IN THE MALDIVES</text>
+  </g>
+  <g transform="translate(814 168)" fill="none" stroke="#849d8e">
+    <circle r="59" stroke-opacity=".20"/>
+    <circle r="42" stroke-opacity=".35"/>
+    <circle r="25" stroke-opacity=".55"/>
+    <path d="M-12 -10 -23 0 -12 10 M12 -10 23 0 12 10 M5 -16 -5 16" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
