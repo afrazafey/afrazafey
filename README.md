@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="assets/hero.svg" width="960" alt="Afraaz. Creative developer based in the Maldives. Turning ideas into working software.">
+<img src="./assets/hero.png" width="960" alt="Afraaz. Creative developer based in the Maldives. Code with purpose. Build with care.">
 
 <br>
 <br>
@@ -68,7 +68,7 @@ I enjoy the whole process: understanding the problem, building the right solutio
 
 <div align="center">
 
-<img src="assets/footer.svg" width="960" alt="Let's make something that matters. Thoughtfully built, from the Maldives. Afraaz.">
+<img src="./assets/footer.png" width="960" alt="Good things start with a conversation. Thoughtfully built, from the Maldives. Afraaz.">
 
 <br>
 <br>
